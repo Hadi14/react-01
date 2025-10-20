@@ -1,3 +1,4 @@
+import "./media.css"
 function Media() {
     return(
         <ul>
