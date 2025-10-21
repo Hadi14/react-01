@@ -1,7 +1,8 @@
 function Header() {
     return (
         <div>This is header
-        <img alt="pic" src="logo192.png" />
+        {/* <img alt="pic" src="logo192.png" /> */}
+<hr/>
         </div>
     );
 }

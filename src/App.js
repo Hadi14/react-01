@@ -1,7 +1,14 @@
 
+import "./App.css"
+import  Product from "./product/Product";
 function App() {
   return (
-   <div>HADI HASHEMI</div>
+   <div className="Appclass">
+   <Product/>
+   {/* <hr/> */}
+   <Product/>
+
+   </div>
   );
 }
 
